@@ -1,10 +1,11 @@
 # Site settings
-title: Jonathon Belotti [thundergolfer]
-author: Jonathon Belotti
-description: "No hugs, some learning"
+title: Aaron Koenigsberg
+author: Aaron Koenigsberg
+description: "I love metadata"
 baseurl: ""
-url: "https://thundergolfer.com"
+url: ""
 date_format: "%b %-d, %Y"
+theme: jekyll-theme-minimal
 
 # Google services
 google_verification:
@@ -26,10 +27,10 @@ extended_fonts: false
 enable_anchorjs: true
 
 # Social icons
-github_username: thundergolfer
+github_username: aaronkoe
 stackoverflow_id:
-twitter_username: jonobelotti_io
-linkedin_username: jonathonbelotti
+twitter_username: 
+linkedin_username: aaronkoenigsberg
 
 text:
   pagination:
