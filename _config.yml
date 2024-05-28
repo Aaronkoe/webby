@@ -2,19 +2,17 @@
 title: Aaron Koenigsberg
 author: Aaron Koenigsberg
 description: "I love metadata"
-baseurl: ""
-url: ""
 date_format: "%b %-d, %Y"
 theme: jekyll-theme-minimal
 
 # Google services
-google_verification:
+# google_verification:
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics: UA-113168316-1
-google_tag_manager:
+# google_analytics: UA-113168316-1
+# google_tag_manager:
 # Bing services
-bing_verification:
+# bing_verification:
 
 # Optional features
 show_related_posts: True
@@ -28,8 +26,8 @@ enable_anchorjs: true
 
 # Social icons
 github_username: aaronkoe
-stackoverflow_id:
-twitter_username: 
+# stackoverflow_id:
+# twitter_username: 
 linkedin_username: aaronkoenigsberg
 
 text:
